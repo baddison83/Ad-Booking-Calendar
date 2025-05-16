@@ -1,6 +1,6 @@
 # Ad-Booking-Calendar
 
-This repo summarizes an ad inventory booking calendar I built for Likewise
+This repo summarizes an ad inventory booking calendar I built for Likewise. See a video demo here: https://youtu.be/R3EMwOM9xAI
 
 <img width="1624" alt="Screenshot 2025-05-15 at 9 51 18 PM" src="https://github.com/user-attachments/assets/18b02d94-5f0e-46b2-aa14-5a1fc294f5a9" />
 
