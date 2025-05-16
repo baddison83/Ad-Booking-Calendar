@@ -6,7 +6,7 @@ This repo summarizes an ad inventory booking calendar I built for Likewise
 
 - This calendar became an essential tool for managing our ad ops immediately after build, used by every seller and account manager. It also saved us at least $30k/year compared to similar B2B offerings.
 
-- Users of the calendar can add bookings for specific slots, and use filters to easily find availability or previously booked slots. See here for video.
+- Users of the calendar can add bookings for specific slots, and use filters to easily find availability or previously booked slots. Video: https://youtu.be/R3EMwOM9xAI
 
 - The calendar was built using google sheets. Data on pipeline and closed-won deals was fed to the calendar from hubspot via snowflake:
 
